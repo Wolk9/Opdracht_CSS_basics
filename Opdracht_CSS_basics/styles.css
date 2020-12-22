@@ -1,0 +1,35 @@
+/** @format */
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-optical-sizing: auto;
+}
+
+.black-border {
+    border: 1px solid black;
+}
+
+.responsive-box {
+    width: 100%;
+    padding: 2%;
+}
+
+.header-image{
+    width: 12%;
+}
+
+.image-container {
+   align-content: auto;
+   padding-left: 2%;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(84, 228, 192);
+}
+
+header {
+    background-color: #cccccc;
+    width: 100%;
+    border-bottom: 2px black
+}
